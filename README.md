@@ -11,5 +11,5 @@ This section only contain aspects of the project which are reproduceable apart f
 
 # Circuit diagram
 
-#### [Video Demonstratin of the Project](https://www.youtube.com/watch?v=9yAFCZDqVdw "Named link title")
+#### [Video Demonstration of the Project](https://www.youtube.com/watch?v=9yAFCZDqVdw "Named link title")
 
