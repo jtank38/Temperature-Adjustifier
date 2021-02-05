@@ -33,13 +33,13 @@ To get the endpoint for updating the thermostat we need to head over to this doc
 under the SetCool section we can find the endpoint for updating the thermostat.
 
 * Setting Up the Python script and Cron Jobs
-  * Python Code
+  * Python Code:
      For the development of the project python 3.7 was used. Most of the libraries used for were
 default libraries, we just need to install PySerial, which can be installed using pip install pyserial.
 To run the python code we need to type “python serialConn.py >> LOG.txt” what it does is
 writes all the print commands to a file called LOG.
 
-  * Setup the cron job.
+  * Setup the cron job:
      To configure the cron job, you’ll need to know your path to the python environment, which can
 be found by typing “where python” on the terminal. Now, to start a cron job you’ll need to do the
 following things:
